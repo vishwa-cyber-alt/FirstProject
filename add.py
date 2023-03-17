@@ -1,0 +1,9 @@
+"""
+a,b=input().split()
+c=a+b;
+print(c)
+"""
+a=int(input())
+b=int(input())
+c=a+b
+print(c)

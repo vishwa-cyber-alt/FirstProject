@@ -1,5 +1,12 @@
 """
+wrong code
+----------
 a,b=input().split()
+c=a+b;
+print(c)
+correct code
+---------------
+a,b=map(int,input().split())
 c=a+b;
 print(c)
 """

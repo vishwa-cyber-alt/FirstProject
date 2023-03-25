@@ -1,0 +1,52 @@
+<p>Login form</p>
+<input type="text" placeholder="name" class="name">
+<input type="text" placeholder="age" class="age">
+<input type="text" placeholder="number" class="number">
+<input type="text" placeholder="city" class="city">
+  <input type="submit" placeholder="submit" class="submit">
+<input type="reset" placeholder="reset" class="reset">
+
+
+
+
+
+.name{
+  color:red;
+  background-color:lightblue;
+}
+.age{
+  position:relative;
+  color:red;
+  background-color:lightblue;
+  top:50px;
+  bottom:410px;
+  right: 175px;
+}
+.number{
+  position:relative;
+   background-color:lightblue;
+  color:red;
+  top:100px;
+  right:345px;
+}
+.city{
+  position:relative;
+   background-color:lightblue;
+  top:160px;
+  right:514px;
+}
+p{
+  color:red;
+  text-align: center;
+}
+.submit{
+  position:relative;
+  color:green;
+  right:570px;
+  top:200px;
+}
+.reset{
+  position:relative;
+  top:200px;
+  right:750px;
+}

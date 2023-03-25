@@ -1,0 +1,42 @@
+a{
+    text-decoration: none;
+    
+}
+body{
+    font-size: 21px;
+}
+.name{
+    left: 150px;
+    position: relative;
+    color:red;
+    background-color: violet;
+    bottom:540px;
+}
+.two{
+    background-color: violet;
+}
+.n{
+    margin:0;
+    position: relative;
+    background-color: aquamarine;
+    color:white;
+    padding-left: 1050px;
+    
+}
+img{
+    width: 1500px;
+  height: 700px;
+  opacity: 0.6;
+}
+label{
+    position: relative;
+    color:red;
+    bottom:540px;
+    background-color: aqua;
+    left:90px;
+}
+.Password{
+    position:relative;
+    bottom: 440px;
+    right:110px;
+}
